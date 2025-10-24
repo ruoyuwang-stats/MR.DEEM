@@ -21,3 +21,5 @@ After installation, load the package:
 library(MR.DEEM)
 ```
 
+The package help document is ./doc/MR.DEEM_manual.pdf
+
