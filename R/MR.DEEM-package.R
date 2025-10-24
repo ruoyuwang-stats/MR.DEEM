@@ -8,7 +8,7 @@
 #' \code{devtools::install_github("ruoyuwang-stats/MR.DEEM")}
 #'
 #' Open the package help:
-#' \href{../docs/MR.DEEM_manual.pdf}{Open the PDF reference manual}
+#' \href{../doc/MR.DEEM_manual.pdf}{Open the PDF reference manual}
 #'
 #' @keywords internal
 #' @aliases MR.DEEM-package

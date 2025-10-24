@@ -16,7 +16,7 @@ Install from GitHub:
 \code{devtools::install_github("ruoyuwang-stats/MR.DEEM")}
 
 Open the package help:
-\href{../docs/MR.DEEM_manual.pdf}{Open the PDF reference manual}
+\href{../doc/MR.DEEM_manual.pdf}{Open the PDF reference manual}
 }
 }
 \author{
